@@ -107,7 +107,7 @@ The constraints are as follows:
 
 
 
-                                  Resources 
+  Resources 
 
-                                https://lodev.org/cgtutor/raycasting.html
+            https://lodev.org/cgtutor/raycasting.html
 
