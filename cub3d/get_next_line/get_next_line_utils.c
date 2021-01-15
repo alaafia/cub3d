@@ -6,13 +6,13 @@
 /*   By: alaafia <alaafia@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/20 17:03:17 by alaafia           #+#    #+#             */
-/*   Updated: 2021/01/14 18:49:59 by alaafia          ###   ########.fr       */
+/*   Updated: 2021/01/15 15:27:53 by alaafia          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
 
-int				ft_strlen(const char *str)
+int					ft_strlen(const char *str)
 {
 	size_t	i;
 

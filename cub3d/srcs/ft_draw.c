@@ -6,7 +6,7 @@
 /*   By: alaafia <alaafia@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/01/13 19:06:13 by alaafia           #+#    #+#             */
-/*   Updated: 2021/01/14 18:46:19 by alaafia          ###   ########.fr       */
+/*   Updated: 2021/01/15 15:29:24 by alaafia          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@ int		my_atoi(char **str)
 	while (**str >= '0' && **str <= '9')
 		num = (num * 10) + (*(*str)++ - '0');
 	return (num);
-}	
+}
 
 void	ft_drawspritelines(t_sprtools *sprite, t_mlx *mlx)
 {

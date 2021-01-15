@@ -6,12 +6,11 @@
 /*   By: alaafia <alaafia@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/23 15:21:56 by alaafia           #+#    #+#             */
-/*   Updated: 2021/01/14 18:51:08 by alaafia          ###   ########.fr       */
+/*   Updated: 2021/01/15 15:17:00 by alaafia          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-
 
 int		ft_intlen(unsigned int n)
 {

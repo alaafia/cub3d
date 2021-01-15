@@ -6,7 +6,7 @@
 /*   By: alaafia <alaafia@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/01/13 17:58:14 by alaafia           #+#    #+#             */
-/*   Updated: 2021/01/14 17:57:04 by alaafia          ###   ########.fr       */
+/*   Updated: 2021/01/15 15:39:24 by alaafia          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -94,6 +94,6 @@ void			ft_init(t_mlx *mlx);
 void			ft_draw_floorsky(t_mlx *mlx);
 void			ft_start_game(char *fname, int save);
 void			ft_checkmap_end(t_mlx *mlx);
-int             my_atoi(char **str);
+int				my_atoi(char **str);
 
 #endif

@@ -6,12 +6,12 @@
 /*   By: alaafia <alaafia@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/01/13 16:31:32 by alaafia           #+#    #+#             */
-/*   Updated: 2021/01/14 17:36:03 by alaafia          ###   ########.fr       */
+/*   Updated: 2021/01/15 15:38:49 by alaafia          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef STRUCTS_H
-# define STRUCTS_H
+#ifndef STRUCTURES_H
+# define STRUCTURES_H
 
 # include "cub3d.h"
 

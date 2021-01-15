@@ -6,7 +6,7 @@
 /*   By: alaafia <alaafia@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/22 13:19:14 by alaafia           #+#    #+#             */
-/*   Updated: 2021/01/14 18:49:41 by alaafia          ###   ########.fr       */
+/*   Updated: 2021/01/15 15:27:42 by alaafia          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,8 +21,7 @@
 
 # define BUFFER_SIZE 32
 
-
-int 	ft_strlen(const char *str);
+int		ft_strlen(const char *str);
 char	*ft_strdup(const char *s1);
 char	*ft_substr(char const *s, unsigned int start, size_t len);
 char	*ft_strjoin(char const *s1, char const *s2);
